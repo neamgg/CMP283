@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1.csproj", "{07EEB674-764B-4D3E-BF00-1D336EA242CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collins.Ne-Yocike.Chapter2", "..\Collins.Ne-Yocike.Chapter2\Collins.Ne-Yocike.Chapter2.csproj", "{A4D1FD3B-6407-4F29-A60F-C3F5913497E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{07EEB674-764B-4D3E-BF00-1D336EA242CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{07EEB674-764B-4D3E-BF00-1D336EA242CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{07EEB674-764B-4D3E-BF00-1D336EA242CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{07EEB674-764B-4D3E-BF00-1D336EA242CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D1FD3B-6407-4F29-A60F-C3F5913497E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D1FD3B-6407-4F29-A60F-C3F5913497E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D1FD3B-6407-4F29-A60F-C3F5913497E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D1FD3B-6407-4F29-A60F-C3F5913497E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
